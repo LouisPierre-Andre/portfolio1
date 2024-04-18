@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio1/static/css/main.43a737fc.css",
+    "main.js": "/portfolio1/static/js/main.34794ae4.js",
+    "static/media/image (6).jpg": "/portfolio1/static/media/image (6).34b172ccbd618214e5f6.jpg",
+    "static/media/movieApp.png": "/portfolio1/static/media/movieApp.0b18ba87009e0d6bc0d6.png",
+    "static/media/quizeApp.png": "/portfolio1/static/media/quizeApp.5c123ab1ab0276414f4c.png",
+    "static/media/team1.jpg": "/portfolio1/static/media/team1.bba0bf4a33aaa105c898.jpg",
+    "static/media/hotel2.png": "/portfolio1/static/media/hotel2.f3ea9ce9a0c0e274bce7.png",
+    "static/media/restaurant.png": "/portfolio1/static/media/restaurant.adcfdfb85cc96d28e7a6.png",
+    "static/media/transport.png": "/portfolio1/static/media/transport.d5ab7efedc1eb6e554b0.png",
+    "static/media/bg1.jpg": "/portfolio1/static/media/bg1.4856c92f111c3b94da0b.jpg",
+    "static/media/NotoSans-Bold.ttf": "/portfolio1/static/media/NotoSans-Bold.5f7ac340604afb2500f1.ttf",
+    "static/media/image (1).jpg": "/portfolio1/static/media/image (1).4bee41abe46d1f396366.jpg",
+    "static/media/ecommerce.png": "/portfolio1/static/media/ecommerce.d63bdf5a8fd46d243d1a.png",
+    "static/media/profil_pic (1).png": "/portfolio1/static/media/profil_pic (1).02641fed1e6f39ff4f63.png",
+    "static/media/profil_pic (2).png": "/portfolio1/static/media/profil_pic (2).3f8bf27bc5104b76089a.png",
+    "static/media/Montserrat-Bold.ttf": "/portfolio1/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/CSS3_logo.png": "/portfolio1/static/media/CSS3_logo.0b43b6d8cf9f1c21a598.png",
+    "static/media/image (5).jpg": "/portfolio1/static/media/image (5).5e0943655aef76850457.jpg",
+    "static/media/Lato-Light.ttf": "/portfolio1/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/image (8).jpg": "/portfolio1/static/media/image (8).3b762ed4e20222deef48.jpg",
+    "static/media/JavaScript_logo.png": "/portfolio1/static/media/JavaScript_logo.fd4730a847de225f7124.png",
+    "static/media/Lato-Regular.ttf": "/portfolio1/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Bold.ttf": "/portfolio1/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/image (2).jpg": "/portfolio1/static/media/image (2).5c526b3f8bad5a83bcfe.jpg",
+    "static/media/Jost-LightItalic.ttf": "/portfolio1/static/media/Jost-LightItalic.e2936a1e3ae62449194c.ttf",
+    "static/media/Jost-Light.ttf": "/portfolio1/static/media/Jost-Light.716ee74019eb47be60d8.ttf",
+    "static/media/Jost-Bold.ttf": "/portfolio1/static/media/Jost-Bold.31ea9eccd9c8723bd3e8.ttf",
+    "static/media/Jost-Regular.ttf": "/portfolio1/static/media/Jost-Regular.59de2b38b1b77348c048.ttf",
+    "static/media/image (4).jpg": "/portfolio1/static/media/image (4).30e290da71cf531d6926.jpg",
+    "static/media/ReactJS_logo.png": "/portfolio1/static/media/ReactJS_logo.dc35f6c457d2f45f0178.png",
+    "static/media/c_plus.png": "/portfolio1/static/media/c_plus.e3cdff2d280795ea0f9a.png",
+    "static/media/html_logo.png": "/portfolio1/static/media/html_logo.ff3cf75e3b7cbb4ea77c.png",
+    "index.html": "/portfolio1/index.html",
+    "main.43a737fc.css.map": "/portfolio1/static/css/main.43a737fc.css.map",
+    "main.34794ae4.js.map": "/portfolio1/static/js/main.34794ae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a737fc.css",
+    "static/js/main.34794ae4.js"
+  ]
+}
